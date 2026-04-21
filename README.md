@@ -1,3 +1,3 @@
-A second year Computer Science student at UC.
+Computer science, mathematics, and general nerd.
 
-Most of my projects on GitHub were made when I was in high school and are quite bad; **Do not use them.**
+2<sup>nd</sup> year Computer Science @ University of Canterbury
